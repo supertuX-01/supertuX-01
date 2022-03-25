@@ -1,6 +1,6 @@
 ### Hi there 👋
 # About Me
-- 🇵🇭
+- 🚩🇵🇭 
 - Linux (KDE Plasma) Enthusiast
 
 <!--
