@@ -1,5 +1,8 @@
 ### Hi there 👋
 # About Me
+- 🇵🇭
+- Linux (KDE Plasma) Enthusiast
+
 <!--
 **supertuX-01/supertuX-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
