@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Visualization using Python**
 
-- 🤝 I’m looking for help with **how to make a OCR scanner to automate text typing from an image**
+- 🤝 I’m looking for help with **how to make an OCR scanner to automate text typing from an image**
 
 
 <p align="left">
